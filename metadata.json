@@ -1,0 +1,7 @@
+{
+  "name": " TeaGuard Assam - AI Leaf Analyzer",
+  "description": "An advanced agricultural diagnostic tool specifically designed for Assam's tea plantations, providing real-time disease detection and AI-powered treatment interpretation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
