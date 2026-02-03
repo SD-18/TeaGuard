@@ -53,7 +53,7 @@ const App: React.FC = () => {
       <section id="home" className="relative min-h-screen flex items-center bg-[#051a14] overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1587593810167-a84920ea0781?auto=format&fit=crop&q=80&w=2000" 
+            src="https://www.tripsavvy.com/thmb/TaOqieSqxikeRaCZSn6nErV5a7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-503909121-5a31ee719e94270037094556.jpg" 
             alt="Assam Tea Plantation" 
             className="w-full h-full object-cover opacity-40 sm:opacity-50 scale-105 animate-slow-zoom" 
           />
@@ -108,7 +108,7 @@ const App: React.FC = () => {
           <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 items-center">
             <div className="relative group">
                <img 
-                 src="https://images.unsplash.com/photo-1594494024039-99bb65044607?auto=format&fit=crop&q=80&w=800" 
+                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_KWL9vV04C_4MYxk62Ta-noIj4_OqktfOQ&s" 
                  alt="Sustainability" 
                  className="rounded-[2.5rem] shadow-2xl relative z-10 transition-transform group-hover:scale-[1.01]"
                />
@@ -121,7 +121,7 @@ const App: React.FC = () => {
                 Our Grad-CAM technology doesn't just predict; it shows you exactly where the infection is. This enables targeted treatment, reducing overall chemical dependency in the tea gardens of Assam.
               </p>
               <div className="grid grid-cols-2 gap-4">
-                {['No Cost Scan', 'Mobile Ready', 'Grad-CAM Heatmaps', 'Dual Language'].map(item => (
+                {['Grad-CAM Heatmaps', 'Dual Language'].map(item => (
                   <div key={item} className="flex items-center space-x-3">
                     <div className="w-5 h-5 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-600 text-[10px]">
                       <i className="fas fa-check"></i>
